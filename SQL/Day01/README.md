@@ -30,3 +30,5 @@
 - Combining conditions with AND and OR
 
 **Total Problems Solved:** 5
+
+#Consitency learning
